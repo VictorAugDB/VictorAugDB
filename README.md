@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá, seja muito bem vindo ao meu repositório 👋
+
+#### Aqui você vai encontrar diversos projetos interessantes que talvez possam te dar alguma inspiração.
+
+#### Desempregado procurando me aperfeiçoar como desenvolvedor fullstack.
+
+#### Estou estudando ReactJS, React-Native, Node, Typescript, NextJS.
+
+#### Faço faculdade na Fatec Sorocaba.
 
 <!--
 **VictorAugDB/VictorAugDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
