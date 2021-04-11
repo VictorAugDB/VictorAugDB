@@ -2,7 +2,7 @@
 
 ### Aqui você vai encontrar diversos projetos interessantes que talvez possam te dar alguma inspiração.
 
-#### Meu nome é Victor tenho 21 anos e sempre estou procurando conhecer mais o mundo da técnologia.
+#### Meu nome é Victor tenho 22 anos e sempre estou procurando conhecer mais o mundo da tecnologia.
 
 #### Meus Contatos:
 * Linkedin: https://www.linkedin.com/in/victor-augusto-949397192/
