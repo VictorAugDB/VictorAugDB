@@ -12,7 +12,7 @@
 
 #### Profissional especilizado em Javascript/Typescript, NodeJS e ReactJS, com uma boa base em React Native.
 
-#### Técnólogo formado em Análise e desenvolvimento de sistemas pela Fatec - Sorocaba
+#### Tecnólogo formado em Análise e desenvolvimento de sistemas pela Fatec - Sorocaba
 
 <!--
 **VictorAugDB/VictorAugDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
