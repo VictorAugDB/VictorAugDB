@@ -8,13 +8,11 @@
 * Linkedin: https://www.linkedin.com/in/victor-augusto-949397192/
 * Email: vdbernardes@gmail.com
 
-#### Desempregado procurando me aperfeiçoar como desenvolvedor fullstack.
+#### Trabalhando como dev fullstack
 
-#### Estou estudando ReactJS, React-Native, Node, Typescript, NextJS.
+#### Profissional especilizado em Javascript/Typescript, NodeJS e ReactJS, com uma boa base em React Native.
 
-#### Faço faculdade na Fatec Sorocaba.
-
-#### Procuro colaborar com a comunidade como um todo.
+#### Técnólogo formado em Análise e desenvolvimento de sistemas pela Fatec - Sorocaba
 
 <!--
 **VictorAugDB/VictorAugDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
