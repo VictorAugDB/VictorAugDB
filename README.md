@@ -2,13 +2,13 @@
 
 ### Aqui você vai encontrar diversos projetos interessantes que talvez possam te dar alguma inspiração.
 
-#### Meu nome é Victor tenho 22 anos e sempre estou procurando conhecer mais o mundo da tecnologia.
+#### Meu nome é Victor tenho 23 anos.
 
 #### Meus Contatos:
 * Linkedin: https://www.linkedin.com/in/victor-augusto-949397192/
 * Email: vdbernardes@gmail.com
 
-#### Trabalhando como dev fullstack
+#### Trabalhando como dev fullstack, atualmente mais focado no Backend com NodeJS
 
 #### Profissional especilizado em Javascript/Typescript, NodeJS e ReactJS, com uma boa base em React Native.
 
