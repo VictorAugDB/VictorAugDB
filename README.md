@@ -1,18 +1,20 @@
-## Olá, seja muito bem vindo ao meu repositório 👋
+## Hello, welcome to my repository 👋
 
-### Aqui você vai encontrar alguns projetos pessoais meus e contribuições em alguns projetos.
+### I'm a fullstack developer with 1+ years of experience working with javascript/typescript, nodejs e reactjs.
 
-#### Meu nome é Victor tenho 23 anos.
+### Here you'll find some of my personal projects and open source contributions. 
 
-#### Meus Contatos:
+### Main projects
+* https://github.com/VictorAugDB/Intergalatic-Federation
+* https://github.com/VictorAugDB/Portifolio </br>
+  You can see the deploy in: https://portifolio-27bw94zz2-victoraugdb.vercel.app/
+
+### Contact info:
 * Linkedin: https://www.linkedin.com/in/victor-augusto-949397192/
 * Email: vdbernardes@gmail.com
 
-#### Dev full stack.
+#### I have graduation in system analysis and development.
 
-#### Profissional especilizado em Javascript/Typescript, NodeJS e ReactJS.
-
-#### Tecnólogo graduado em Análise e desenvolvimento de sistemas pela Fatec - Sorocaba
 
 <!--
 **VictorAugDB/VictorAugDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
