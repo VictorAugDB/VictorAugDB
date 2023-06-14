@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack developer
 -------------------
 
-I'm a fullstack developer with 1+ years of working experience and I've been working with javascript/typescript with nodejs to backend and reactjs for frontend and nextjs to both.
+I'm a full-stack developer with 2.5+ years of working experience and I've been working with javascript/typescript with nodejs to backend and reactjs for frontend and nextjs to both.
 
 *   🌍  I'm based in Sorocaba / São Paulo
 *   🖥️  See my portfolio at [My Portifolio](http://portifolio-psi-murex.vercel.app/)
