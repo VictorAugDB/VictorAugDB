@@ -9,7 +9,7 @@ I'm a full-stack developer with 3+ years of working experience and I've been wor
 *   🌍  I'm based in Sorocaba / São Paulo
 *   🖥️  See my portfolio at [My Portifolio](https://github.com/VictorAugDB?tab=repositories)
 *   ✉️  You can contact me at [vdbernardes@gmail.com](mailto:vdbernardes@gmail.com)
-*   🚀  I'm currently working on [template-blog](http://github.com/VictorAugDB/blog-template)
+*   🚀  I'm currently working on [template-blog](https://github.com/VictorAugDB/e-commerce-e-shop-verse)
 *   🧠  I'm learning nextjs, kubernetes, data-structures, microservices
 *   🤝  I'm open to collaborating on interesting projects
 
