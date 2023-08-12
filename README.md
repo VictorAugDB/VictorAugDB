@@ -7,7 +7,7 @@ Fullstack developer
 I'm a full-stack developer with 3+ years of working experience and I've been working with javascript/typescript with nodejs to backend and reactjs for frontend and nextjs to both.
 
 *   🌍  I'm based in Sorocaba / São Paulo
-*   🖥️  See my portfolio at [My Portifolio](https://github.com/VictorAugDB?tab=repositories)
+*   🖥️  See my portfolio at [My Portifolio](https://portifolio-2-0-3acw.vercel.app/)
 *   ✉️  You can contact me at [vdbernardes@gmail.com](mailto:vdbernardes@gmail.com)
 *   🚀  I'm currently working on [e-commerce-e-shop-verse](https://github.com/VictorAugDB/e-commerce-e-shop-verse)
 *   🧠  I'm learning nextjs, kubernetes, data-structures, microservices
