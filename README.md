@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack developer
 -------------------
 
-I'm a full-stack developer with 3+ years of working experience and I've been working with javascript/typescript with nodejs to backend and reactjs for frontend and nextjs to both.
+I'm a full-stack developer with 3+ years of experience building efficient and user-friendly web applications. I love using the MERN stack (MongoDB, Express, React, and Node.js) to create performant and scalable solutions.
 
 *   🌍  I'm based in Sorocaba / São Paulo
 *   🖥️  See my portfolio at [My Portifolio](https://portifolio-2-0-3acw.vercel.app/)
