@@ -7,7 +7,7 @@ Fullstack developer
 I'm a full-stack developer with 3+ years of experience building efficient and user-friendly web applications. I love using the MERN stack (MongoDB, Express, React, and Node.js) to create performant and scalable solutions.
 
 *   🌍  I'm based in Brazil / Sorocaba / São Paulo
-*   🖥️  See my portfolio at [My Portifolio](https://portifolio-2-0-3acw.vercel.app/)
+*   🖥️  See my portfolio at [My Portifolio](https://portfolio.victoraug.com)
 *   ✉️  You can contact me at [vdbernardes@gmail.com](mailto:vdbernardes@gmail.com)
 *   🚀  I'm currently working on [e-commerce-e-shop-verse](https://github.com/VictorAugDB/e-commerce-e-shop-verse)
 *   🤝  I'm open to collaborating on interesting projects
