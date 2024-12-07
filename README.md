@@ -9,7 +9,6 @@ I'm a full-stack developer with 4+ years of experience building efficient and us
 *   🌍  I'm based in Brazil / Sorocaba / São Paulo
 *   🖥️  See my portfolio at [My Portifolio](https://portfolio.victoraug.com)
 *   ✉️  You can contact me at [vdbernardes@gmail.com](mailto:vdbernardes@gmail.com)
-*   🚀  I'm currently working on [e-commerce-e-shop-verse](https://github.com/VictorAugDB/e-commerce-e-shop-verse)
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills 
